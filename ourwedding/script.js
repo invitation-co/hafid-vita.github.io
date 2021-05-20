@@ -255,5 +255,5 @@ function mainkan() {
 }
 
 function lokasi() {
-    window.open('hhttps://www.google.com/maps/place/Jl.+Sei+Bahilang,+Mandailing,+Kec.+Tebing+Tinggi+Kota,+Kota+Tebing+Tinggi,+Sumatera+Utara/@3.3246101,99.1561442,756m/data=!3m1!1e3!4m5!3m4!1s0x303161a54718c5b5:0x1527e503c0d1dcef!8m2!3d3.3250936!4d99.1557753');
+    window.open('https://maps.app.goo.gl/xQeNxXEae3gXXHDEA');
 }
